@@ -1,0 +1,25 @@
+{
+    "name": "make-title",
+    "version": "1.0.0",
+    "description": "This is a tiny tools for make a title usable",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fuchao2012/make-title.git"
+    },
+    "keywords": [
+        "tools",
+        "markdown",
+        "title"
+    ],
+    "bin": { "make-title": "index.js" },
+    "author": "fuchao.zheng",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fuchao2012/make-title/issues"
+    },
+    "homepage": "https://github.com/fuchao2012/make-title#readme"
+}
